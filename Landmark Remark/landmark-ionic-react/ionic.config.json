@@ -1,0 +1,7 @@
+{
+  "name": "landmark-ionic-react",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
