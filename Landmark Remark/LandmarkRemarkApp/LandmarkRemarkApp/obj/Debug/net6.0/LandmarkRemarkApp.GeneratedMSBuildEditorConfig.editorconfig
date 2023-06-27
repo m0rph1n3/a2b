@@ -1,0 +1,41 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LandmarkRemarkApp
+build_property.RootNamespace = LandmarkRemarkApp
+build_property.ProjectDir = C:\temp\a2b\Landmark Remark\LandmarkRemarkApp\LandmarkRemarkApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\temp\a2b\Landmark Remark\LandmarkRemarkApp\LandmarkRemarkApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/temp/a2b/Landmark Remark/LandmarkRemarkApp/LandmarkRemarkApp/Views/deleteme/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGVsZXRlbWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/temp/a2b/Landmark Remark/LandmarkRemarkApp/LandmarkRemarkApp/Views/deleteme/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGVsZXRlbWVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/temp/a2b/Landmark Remark/LandmarkRemarkApp/LandmarkRemarkApp/Views/deleteme/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGVsZXRlbWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/temp/a2b/Landmark Remark/LandmarkRemarkApp/LandmarkRemarkApp/Views/deleteme/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGVsZXRlbWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/temp/a2b/Landmark Remark/LandmarkRemarkApp/LandmarkRemarkApp/Views/deleteme/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGVsZXRlbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/temp/a2b/Landmark Remark/LandmarkRemarkApp/LandmarkRemarkApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
